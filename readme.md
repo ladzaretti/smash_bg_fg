@@ -16,4 +16,4 @@ To stop a job, press cntl-z.
 - build the project using the provided makefile
 - "./smash" to run shell
 
-![example](http://https://raw.githubusercontent.com/ladzaretti/smash_bg_fg/example.PNG)
+![example](https://raw.githubusercontent.com/ladzaretti/smash_bg_fg/master/example.PNG)
